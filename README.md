@@ -22,6 +22,7 @@ HTML5
 
 CSS3
 
-📬 Connect with Me
 
-GitHub: @abhishekdevelops
+As a part of freeCodeCamp Responsive Web Design Certification.
+
+
