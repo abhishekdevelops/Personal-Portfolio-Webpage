@@ -1,8 +1,8 @@
-Personal Portfolio Webpage
+**Personal Portfolio Webpage**
 
 A responsive portfolio webpage built as part of the **[freeCodeCamp](https://www.freecodecamp.org/)** Responsive Web Design Certification. This project showcases my work as a web developer.
 
-🌟 Features
+**Features**
 
 Fully responsive layout
 
@@ -12,17 +12,17 @@ Showcases completed projects
 
 Contact section with GitHub profile
 
-📌 Live Demo
+**📌 Live Demo**
 
 🔗 View Live Demo (https://abhishekdevelops.github.io/Personal-Portfolio-Webpage/)
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 
 HTML5
 
 CSS3
 
 
-As a part of freeCodeCamp Responsive Web Design Certification.
+**As a part of FreeCodeCamp Responsive Web Design Certification.**
 
 
