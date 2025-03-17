@@ -23,6 +23,6 @@ HTML5
 CSS3
 
 
-**As a part of FreeCodeCamp Responsive Web Design Certification.**
+**As a part of freeCodeCamp Responsive Web Design Certification.**
 
 
